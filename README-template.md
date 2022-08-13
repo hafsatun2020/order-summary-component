@@ -1,3 +1,5 @@
+# order-summary-component
+
 # Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -17,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ## Overview
-Started this project with the help of madison kayne on freecodecamp's youtube.
+Started this project with the help of madison kanna on freecodecamp's youtube.
 
 
 ### The challenge
@@ -40,7 +42,7 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-I commented outt the part i learned with Madison Kayne and did it from scratch 6hrs later.
+I commented outt the part i learned with Madison Kanna and did it from scratch 6hrs later.
 
 ### Built with
 
@@ -55,7 +57,7 @@ Use this section to recap over some of your major learnings while working throug
 
 To see how you can add code snippets, see below:
 
-i had fun playing around with background-size instead using background-cover as recommended by my madison. Reason being it giving it width and height sticks it to page.
+i had fun playing around with background-size instead using background-cover as recommended by Madison. Reason being it giving it width and height sticks it to page.
 
 ```css
 .proud-of-this-css {
@@ -85,5 +87,5 @@ setting Margin. padding and centering divs has been a big issue so far and it is
 
 ## Acknowledgments
 
-I really enjoyed doing this tutorial with Madison Kayne on FreecodeCamp youtube channel.
+I really enjoyed doing this tutorial with Madison Kanna on FreecodeCamp youtube channel.
 
